@@ -1,0 +1,12 @@
+plotly
+pandas
+torch
+numpy
+ pytorch-lightning
+matplotlib
+scikit-learn
+scipy
+torchinfo
+torchmetrics
+umap-learn
+seaborn

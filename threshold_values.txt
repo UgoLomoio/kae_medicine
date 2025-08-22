@@ -1,0 +1,6 @@
+ae_Stethoscope_anomaly detection:  0.0005007850704714656
+kae_Stethoscope_anomaly detection:  9.687706915428862e-05
+cae_Stethoscope_anomaly detection:  7.385820936178789e-05
+kcae_Stethoscope_anomaly detection:  0.00010348969954065979
+cae-ps_Stethoscope_anomaly detection:  6.433847738662735e-05
+kcae-ps_Stethoscope_anomaly detection:  4.65870471089147e-05

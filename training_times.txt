@@ -1,0 +1,38 @@
+ae_Stethoscope_denoising: 132.3741099834442 seconds 
+kae_Stethoscope_denoising: 99.08756875991821 seconds 
+cae_Stethoscope_denoising: 176.21425008773804 seconds 
+kcae_Stethoscope_denoising: 998.0072271823883 seconds 
+cae-ps_Stethoscope_denoising: 104.6597683429718 seconds 
+kcae-ps_Stethoscope_denoising: 558.4353144168854 seconds 
+ae_Stethoscope_inpainting: 140.14138340950012 seconds
+kae_Stethoscope_inpainting: 105.70017218589783 seconds 
+cae_Stethoscope_inpainting: 115.27763962745667 seconds 
+kcae_Stethoscope_inpainting: 1000.1380128860474 seconds 
+cae-ps_Stethoscope_inpainting: 103.21923327445984 seconds 
+kcae-ps_Stethoscope_inpainting: 568.9982450008392 seconds 
+ae_Stethoscope_reconstruction: 120.96231365203857 seconds 
+kae_Stethoscope_reconstruction: 81.39418435096741 seconds 
+cae_Stethoscope_reconstruction: 107.69829678535461 seconds 
+kcae_Stethoscope_reconstruction: 989.943113565445 seconds 
+cae-ps_Stethoscope_reconstruction: 96.73482394218445 seconds 
+kcae-ps_Stethoscope_reconstruction: 541.5652935504913 seconds 
+ae_Stethoscope_anomaly detection: 164.29875373840332 seconds 
+kae_Stethoscope_anomaly detection: 151.6930959224701 seconds 
+cae_Stethoscope_anomaly detection: 145.32574367523193 seconds 
+kcae_Stethoscope_anomaly detection: 786.68847489357 seconds 
+cae-ps_Stethoscope_anomaly detection: 110.17805171012878 seconds 
+kcae-ps_Stethoscope_anomaly detection: 369.4922549724579 seconds 
+cae-ps_Stethoscope_inpainting: 98.02730369567871 seconds 
+cae-ps_Stethoscope_reconstruction: 97.31995344161987 seconds
+kcae-ps_Stethoscope_reconstruction: 524.8642363548279 seconds 
+cae-ps_Stethoscope_denoising: 101.13658118247986 seconds 
+kcae-ps_Stethoscope_denoising: 546.2484152317047 seconds 
+cae-ps_Stethoscope_inpainting: 101.72380208969116 seconds 
+kcae-ps_Stethoscope_inpainting: 547.1189014911652 seconds 
+cae_Stethoscope_inpainting: 129.86045789718628 seconds 
+cae_Stethoscope_reconstruction: 122.41510725021362 seconds 
+cae_Stethoscope_denoising: 126.51191782951355 seconds 
+cae_Stethoscope_inpainting: 125.19442081451416 seconds 
+kcae_Stethoscope_reconstruction: 1002.0750987529755 seconds 
+kcae_Stethoscope_denoising: 1002.3783700466156 seconds 
+kcae_Stethoscope_inpainting: 1853.2033739089966 seconds 
